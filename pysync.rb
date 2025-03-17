@@ -1,9 +1,9 @@
 class Pysync < Formula
     desc "Pysync: Sync your pyproject and uv lockfile!"
     homepage "https://github.com/kedvall/pysync"
-    url "https://github.com/kedvall/pysync/releases/download/v0.3.4/pysync-macos.tar.gz"
-    sha256 "34b797cb0c08668090881bfef0abd34579bb3a96947cf9440e64101e40839e73"
-    version "0.3.4"
+    url "https://github.com/kedvall/pysync/releases/download/v0.3.5/pysync-macos.tar.gz"
+    sha256 "f54a8cd7086433d6096add7754ba4b0b215a232ee7cafcdf5fbe1a6b74409bb2"
+    version "0.3.5"
     license "MIT"
   
     def install
